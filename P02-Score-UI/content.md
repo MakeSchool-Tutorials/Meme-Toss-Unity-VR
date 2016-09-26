@@ -36,7 +36,7 @@ Finally, let's add some feedback.
 >[action]
 Add a visual and/or auditory effect that plays when a Ball hits the Goal, thus scoring a point. If your method involves creating objects in the Scene, be sure that those objects get Destroyed and don't exist forever, or that they get reused. Overpopulating the Scene is generally not a great idea.
 >
-If you're not sure what would make a good effect, try a Particle System! If you're feeling like using a Particle System, but don't necessarily want to create your own, you can find some great ones on the Asset Store, many of them for free, and/or in the Effects Standard Assets package!
+If you're not sure what would make a good effect, try a Particle System! If you're feeling like using a Particle System, but don't necessarily want to create your own, you can find some great ones on the Asset Store, many of them for free, and/or in the ParticleSystems Standard Assets package!
 
 For video assistance, see the following:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vJVBCRoE6rk" frameborder="0" allowfullscreen></iframe>
